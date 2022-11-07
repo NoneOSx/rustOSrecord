@@ -51,4 +51,10 @@
 
 1. 学习了Rust闭包，智能指针的有关内容
 
-2. Rustlings (63/84) 
+2. Rustlings (63/84)
+
+## Day7
+
+### 成果
+
+1. 完成了 Rustlings !  
